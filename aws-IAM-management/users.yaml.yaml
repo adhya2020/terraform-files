@@ -1,0 +1,7 @@
+users:
+  - username: raju
+    role: admin
+  - username: sham
+    role: ec2allaccess
+  - username: baburao
+    roles: ec2allaccess
